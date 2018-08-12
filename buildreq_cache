@@ -1,9 +1,9 @@
-5.48.0
-kwindowsystem-dev
-kcompletion-dev
+5.49.0
 kcodecs-dev
-kservice-dev
-sonnet-dev
-kiconthemes-dev
-kwidgetsaddons-dev
+kcompletion-dev
 ki18n-dev
+kiconthemes-dev
+kservice-dev
+kwidgetsaddons-dev
+kwindowsystem-dev
+sonnet-dev
