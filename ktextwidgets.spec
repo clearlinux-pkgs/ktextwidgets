@@ -5,21 +5,21 @@
 # Source0 file verified with key 0x58D0EE648A48B3BB (faure@kde.org)
 #
 Name     : ktextwidgets
-Version  : 5.50.0
-Release  : 4
-URL      : https://download.kde.org/stable/frameworks/5.50/ktextwidgets-5.50.0.tar.xz
-Source0  : https://download.kde.org/stable/frameworks/5.50/ktextwidgets-5.50.0.tar.xz
-Source99 : https://download.kde.org/stable/frameworks/5.50/ktextwidgets-5.50.0.tar.xz.sig
+Version  : 5.51.0
+Release  : 5
+URL      : https://download.kde.org/stable/frameworks/5.51/ktextwidgets-5.51.0.tar.xz
+Source0  : https://download.kde.org/stable/frameworks/5.51/ktextwidgets-5.51.0.tar.xz
+Source99 : https://download.kde.org/stable/frameworks/5.51/ktextwidgets-5.51.0.tar.xz.sig
 Summary  : No detailed summary available
 Group    : Development/Tools
 License  : LGPL-2.0 LGPL-2.1
-Requires: ktextwidgets-lib
-Requires: ktextwidgets-license
-Requires: ktextwidgets-data
-Requires: ktextwidgets-locales
+Requires: ktextwidgets-data = %{version}-%{release}
+Requires: ktextwidgets-lib = %{version}-%{release}
+Requires: ktextwidgets-license = %{version}-%{release}
+Requires: ktextwidgets-locales = %{version}-%{release}
 BuildRequires : buildreq-cmake
 BuildRequires : buildreq-kde
-BuildRequires : qtbase-dev qtbase-extras mesa-dev
+BuildRequires : qtbase-dev mesa-dev
 
 %description
 # KTextWidgets
@@ -39,9 +39,9 @@ data components for the ktextwidgets package.
 %package dev
 Summary: dev components for the ktextwidgets package.
 Group: Development
-Requires: ktextwidgets-lib
-Requires: ktextwidgets-data
-Provides: ktextwidgets-devel
+Requires: ktextwidgets-lib = %{version}-%{release}
+Requires: ktextwidgets-data = %{version}-%{release}
+Provides: ktextwidgets-devel = %{version}-%{release}
 
 %description dev
 dev components for the ktextwidgets package.
@@ -50,8 +50,8 @@ dev components for the ktextwidgets package.
 %package lib
 Summary: lib components for the ktextwidgets package.
 Group: Libraries
-Requires: ktextwidgets-data
-Requires: ktextwidgets-license
+Requires: ktextwidgets-data = %{version}-%{release}
+Requires: ktextwidgets-license = %{version}-%{release}
 
 %description lib
 lib components for the ktextwidgets package.
@@ -74,26 +74,26 @@ locales components for the ktextwidgets package.
 
 
 %prep
-%setup -q -n ktextwidgets-5.50.0
+%setup -q -n ktextwidgets-5.51.0
 
 %build
 export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1536435967
-mkdir clr-build
+export SOURCE_DATE_EPOCH=1539626595
+mkdir -p clr-build
 pushd clr-build
 %cmake ..
-make  %{?_smp_mflags}
+make  %{?_smp_mflags} VERBOSE=1
 popd
 
 %install
-export SOURCE_DATE_EPOCH=1536435967
+export SOURCE_DATE_EPOCH=1539626595
 rm -rf %{buildroot}
-mkdir -p %{buildroot}/usr/share/doc/ktextwidgets
-cp COPYING.LGPL-2 %{buildroot}/usr/share/doc/ktextwidgets/COPYING.LGPL-2
-cp COPYING.LIB %{buildroot}/usr/share/doc/ktextwidgets/COPYING.LIB
+mkdir -p %{buildroot}/usr/share/package-licenses/ktextwidgets
+cp COPYING.LGPL-2 %{buildroot}/usr/share/package-licenses/ktextwidgets/COPYING.LGPL-2
+cp COPYING.LIB %{buildroot}/usr/share/package-licenses/ktextwidgets/COPYING.LIB
 pushd clr-build
 %make_install
 popd
@@ -138,12 +138,12 @@ popd
 %files lib
 %defattr(-,root,root,-)
 /usr/lib64/libKF5TextWidgets.so.5
-/usr/lib64/libKF5TextWidgets.so.5.50.0
+/usr/lib64/libKF5TextWidgets.so.5.51.0
 
 %files license
-%defattr(-,root,root,-)
-/usr/share/doc/ktextwidgets/COPYING.LGPL-2
-/usr/share/doc/ktextwidgets/COPYING.LIB
+%defattr(0644,root,root,0755)
+/usr/share/package-licenses/ktextwidgets/COPYING.LGPL-2
+/usr/share/package-licenses/ktextwidgets/COPYING.LIB
 
 %files locales -f ktextwidgets5.lang
 %defattr(-,root,root,-)
