@@ -5,11 +5,11 @@
 # Source0 file verified with key 0x58D0EE648A48B3BB (faure@kde.org)
 #
 Name     : ktextwidgets
-Version  : 5.65.0
-Release  : 24
-URL      : https://download.kde.org/stable/frameworks/5.65/ktextwidgets-5.65.0.tar.xz
-Source0  : https://download.kde.org/stable/frameworks/5.65/ktextwidgets-5.65.0.tar.xz
-Source1  : https://download.kde.org/stable/frameworks/5.65/ktextwidgets-5.65.0.tar.xz.sig
+Version  : 5.66.0
+Release  : 25
+URL      : https://download.kde.org/stable/frameworks/5.66/ktextwidgets-5.66.0.tar.xz
+Source0  : https://download.kde.org/stable/frameworks/5.66/ktextwidgets-5.66.0.tar.xz
+Source1  : https://download.kde.org/stable/frameworks/5.66/ktextwidgets-5.66.0.tar.xz.sig
 Summary  : Advanced text editing widgets
 Group    : Development/Tools
 License  : LGPL-2.0 LGPL-2.1
@@ -32,6 +32,7 @@ Summary: dev components for the ktextwidgets package.
 Group: Development
 Requires: ktextwidgets-lib = %{version}-%{release}
 Provides: ktextwidgets-devel = %{version}-%{release}
+Requires: ktextwidgets = %{version}-%{release}
 Requires: ktextwidgets = %{version}-%{release}
 
 %description dev
@@ -64,17 +65,18 @@ locales components for the ktextwidgets package.
 
 
 %prep
-%setup -q -n ktextwidgets-5.65.0
-cd %{_builddir}/ktextwidgets-5.65.0
+%setup -q -n ktextwidgets-5.66.0
+cd %{_builddir}/ktextwidgets-5.66.0
 
 %build
 export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1576532632
+export SOURCE_DATE_EPOCH=1578950233
 mkdir -p clr-build
 pushd clr-build
+# -Werror is for werrorists
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
@@ -88,11 +90,11 @@ make  %{?_smp_mflags}  VERBOSE=1
 popd
 
 %install
-export SOURCE_DATE_EPOCH=1576532632
+export SOURCE_DATE_EPOCH=1578950233
 rm -rf %{buildroot}
 mkdir -p %{buildroot}/usr/share/package-licenses/ktextwidgets
-cp %{_builddir}/ktextwidgets-5.65.0/COPYING.LGPL-2 %{buildroot}/usr/share/package-licenses/ktextwidgets/ba8966e2473a9969bdcab3dc82274c817cfd98a1
-cp %{_builddir}/ktextwidgets-5.65.0/COPYING.LIB %{buildroot}/usr/share/package-licenses/ktextwidgets/9a1929f4700d2407c70b507b3b2aaf6226a9543c
+cp %{_builddir}/ktextwidgets-5.66.0/COPYING.LGPL-2 %{buildroot}/usr/share/package-licenses/ktextwidgets/ba8966e2473a9969bdcab3dc82274c817cfd98a1
+cp %{_builddir}/ktextwidgets-5.66.0/COPYING.LIB %{buildroot}/usr/share/package-licenses/ktextwidgets/9a1929f4700d2407c70b507b3b2aaf6226a9543c
 pushd clr-build
 %make_install
 popd
@@ -133,7 +135,7 @@ popd
 %files lib
 %defattr(-,root,root,-)
 /usr/lib64/libKF5TextWidgets.so.5
-/usr/lib64/libKF5TextWidgets.so.5.65.0
+/usr/lib64/libKF5TextWidgets.so.5.66.0
 /usr/lib64/qt5/plugins/designer/ktextwidgets5widgets.so
 
 %files license
