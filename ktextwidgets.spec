@@ -6,11 +6,11 @@
 # Source0 file verified with key 0x58D0EE648A48B3BB (faure@kde.org)
 #
 Name     : ktextwidgets
-Version  : 5.109.0
-Release  : 66
-URL      : https://download.kde.org/stable/frameworks/5.109/ktextwidgets-5.109.0.tar.xz
-Source0  : https://download.kde.org/stable/frameworks/5.109/ktextwidgets-5.109.0.tar.xz
-Source1  : https://download.kde.org/stable/frameworks/5.109/ktextwidgets-5.109.0.tar.xz.sig
+Version  : 5.110.0
+Release  : 67
+URL      : https://download.kde.org/stable/frameworks/5.110/ktextwidgets-5.110.0.tar.xz
+Source0  : https://download.kde.org/stable/frameworks/5.110/ktextwidgets-5.110.0.tar.xz
+Source1  : https://download.kde.org/stable/frameworks/5.110/ktextwidgets-5.110.0.tar.xz.sig
 Summary  : Advanced text editing widgets
 Group    : Development/Tools
 License  : CC0-1.0 LGPL-2.0 LGPL-2.1 LGPL-3.0
@@ -75,15 +75,15 @@ locales components for the ktextwidgets package.
 
 
 %prep
-%setup -q -n ktextwidgets-5.109.0
-cd %{_builddir}/ktextwidgets-5.109.0
+%setup -q -n ktextwidgets-5.110.0
+cd %{_builddir}/ktextwidgets-5.110.0
 
 %build
 export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1693075229
+export SOURCE_DATE_EPOCH=1694455720
 mkdir -p clr-build
 pushd clr-build
 export GCC_IGNORE_WERROR=1
@@ -116,7 +116,7 @@ make  %{?_smp_mflags}
 popd
 
 %install
-export SOURCE_DATE_EPOCH=1693075229
+export SOURCE_DATE_EPOCH=1694455720
 rm -rf %{buildroot}
 mkdir -p %{buildroot}/usr/share/package-licenses/ktextwidgets
 cp %{_builddir}/ktextwidgets-%{version}/LICENSES/CC0-1.0.txt %{buildroot}/usr/share/package-licenses/ktextwidgets/82da472f6d00dc5f0a651f33ebb320aa9c7b08d0 || :
@@ -169,10 +169,10 @@ popd
 
 %files lib
 %defattr(-,root,root,-)
-/V3/usr/lib64/libKF5TextWidgets.so.5.109.0
+/V3/usr/lib64/libKF5TextWidgets.so.5.110.0
 /V3/usr/lib64/qt5/plugins/designer/ktextwidgets5widgets.so
 /usr/lib64/libKF5TextWidgets.so.5
-/usr/lib64/libKF5TextWidgets.so.5.109.0
+/usr/lib64/libKF5TextWidgets.so.5.110.0
 /usr/lib64/qt5/plugins/designer/ktextwidgets5widgets.so
 
 %files license
