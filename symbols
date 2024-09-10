@@ -1,229 +1,229 @@
-libKF6TextWidgets.so.6:_ZN11KFindDialog10setOptionsEl
-libKF6TextWidgets.so.6:_ZN11KFindDialog10setPatternERK7QString
-libKF6TextWidgets.so.6:_ZN11KFindDialog11qt_metacallEN11QMetaObject4CallEiPPv
-libKF6TextWidgets.so.6:_ZN11KFindDialog11qt_metacastEPKc
-libKF6TextWidgets.so.6:_ZN11KFindDialog12setHasCursorEb
-libKF6TextWidgets.so.6:_ZN11KFindDialog13cancelClickedEv
-libKF6TextWidgets.so.6:_ZN11KFindDialog14optionsChangedEv
-libKF6TextWidgets.so.6:_ZN11KFindDialog14setFindHistoryERK5QListI7QStringE
-libKF6TextWidgets.so.6:_ZN11KFindDialog15setHasSelectionEb
-libKF6TextWidgets.so.6:_ZN11KFindDialog24setSupportsBackwardsFindEb
-libKF6TextWidgets.so.6:_ZN11KFindDialog25setSupportsWholeWordsFindEb
-libKF6TextWidgets.so.6:_ZN11KFindDialog28setSupportsCaseSensitiveFindEb
-libKF6TextWidgets.so.6:_ZN11KFindDialog32setSupportsRegularExpressionFindEb
-libKF6TextWidgets.so.6:_ZN11KFindDialog9okClickedEv
-libKF6TextWidgets.so.6:_ZN11KFindDialog9showEventEP10QShowEvent
-libKF6TextWidgets.so.6:_ZN11KFindDialogC1EP7QWidgetlRK5QListI7QStringEbb
-libKF6TextWidgets.so.6:_ZN11KFindDialogC2EP7QWidgetlRK5QListI7QStringEbb
-libKF6TextWidgets.so.6:_ZN11KFindDialogD0Ev
-libKF6TextWidgets.so.6:_ZN11KFindDialogD1Ev
-libKF6TextWidgets.so.6:_ZN11KFindDialogD2Ev
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit10alignRightEv
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit10updateLinkERK7QStringS2_
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit11alignCenterEv
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit11qt_metacallEN11QMetaObject4CallEiPPv
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit11qt_metacastEPKc
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit11setFontSizeEi
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit11setTextBoldEb
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit12alignJustifyEv
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit12setListStyleEi
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit13keyPressEventEP9QKeyEvent
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit13setFontFamilyERK7QString
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit13setTextItalicEb
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit13setTextOrHtmlERK7QString
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit14indentListLessEv
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit14indentListMoreEv
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit15makeLeftToRightEv
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit15makeRightToLeftEv
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit15setHeadingLevelEi
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit15textModeChangedENS_4ModeE
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit16setTextStrikeOutEb
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit16setTextSubScriptEb
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit16setTextUnderlineEb
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit17switchToPlainTextEv
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit18enableRichTextModeEv
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit18setTextSuperScriptEb
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit20insertHorizontalRuleEv
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit22setTextBackgroundColorERK6QColor
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit22setTextForegroundColorERK6QColor
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit29insertPlainTextImplementationEv
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit7setFontERK5QFont
-libKF6TextWidgets.so.6:_ZN13KRichTextEdit9alignLeftEv
-libKF6TextWidgets.so.6:_ZN13KRichTextEditC1EP7QWidget
-libKF6TextWidgets.so.6:_ZN13KRichTextEditC1ERK7QStringP7QWidget
-libKF6TextWidgets.so.6:_ZN13KRichTextEditC2EP7QWidget
-libKF6TextWidgets.so.6:_ZN13KRichTextEditC2ERK7QStringP7QWidget
-libKF6TextWidgets.so.6:_ZN13KRichTextEditD0Ev
-libKF6TextWidgets.so.6:_ZN13KRichTextEditD1Ev
-libKF6TextWidgets.so.6:_ZN13KRichTextEditD2Ev
-libKF6TextWidgets.so.6:_ZN14KReplaceDialog10setOptionsEl
-libKF6TextWidgets.so.6:_ZN14KReplaceDialog11qt_metacallEN11QMetaObject4CallEiPPv
-libKF6TextWidgets.so.6:_ZN14KReplaceDialog11qt_metacastEPKc
-libKF6TextWidgets.so.6:_ZN14KReplaceDialog21setReplacementHistoryERK5QListI7QStringE
-libKF6TextWidgets.so.6:_ZN14KReplaceDialog9showEventEP10QShowEvent
-libKF6TextWidgets.so.6:_ZN14KReplaceDialogC1EP7QWidgetlRK5QListI7QStringES6_b
-libKF6TextWidgets.so.6:_ZN14KReplaceDialogC2EP7QWidgetlRK5QListI7QStringES6_b
-libKF6TextWidgets.so.6:_ZN14KReplaceDialogD0Ev
-libKF6TextWidgets.so.6:_ZN14KReplaceDialogD1Ev
-libKF6TextWidgets.so.6:_ZN14KReplaceDialogD2Ev
-libKF6TextWidgets.so.6:_ZN15KRichTextWidget11qt_metacallEN11QMetaObject4CallEiPPv
-libKF6TextWidgets.so.6:_ZN15KRichTextWidget11qt_metacastEPKc
-libKF6TextWidgets.so.6:_ZN15KRichTextWidget13createActionsEv
-libKF6TextWidgets.so.6:_ZN15KRichTextWidget17mouseReleaseEventEP11QMouseEvent
-libKF6TextWidgets.so.6:_ZN15KRichTextWidget17setActionsEnabledEb
-libKF6TextWidgets.so.6:_ZN15KRichTextWidget18setRichTextSupportERK6QFlagsINS_21RichTextSupportValuesEE
-libKF6TextWidgets.so.6:_ZN15KRichTextWidget18updateActionStatesEv
-libKF6TextWidgets.so.6:_ZN15KRichTextWidgetC1EP7QWidget
-libKF6TextWidgets.so.6:_ZN15KRichTextWidgetC1ERK7QStringP7QWidget
-libKF6TextWidgets.so.6:_ZN15KRichTextWidgetC2EP7QWidget
-libKF6TextWidgets.so.6:_ZN15KRichTextWidgetC2ERK7QStringP7QWidget
-libKF6TextWidgets.so.6:_ZN15KRichTextWidgetD0Ev
-libKF6TextWidgets.so.6:_ZN15KRichTextWidgetD1Ev
-libKF6TextWidgets.so.6:_ZN15KRichTextWidgetD2Ev
-libKF6TextWidgets.so.6:_ZN22KPluralHandlingSpinBox11qt_metacallEN11QMetaObject4CallEiPPv
-libKF6TextWidgets.so.6:_ZN22KPluralHandlingSpinBox11qt_metacastEPKc
-libKF6TextWidgets.so.6:_ZN22KPluralHandlingSpinBox9setSuffixERK16KLocalizedString
-libKF6TextWidgets.so.6:_ZN22KPluralHandlingSpinBoxC1EP7QWidget
-libKF6TextWidgets.so.6:_ZN22KPluralHandlingSpinBoxC2EP7QWidget
-libKF6TextWidgets.so.6:_ZN22KPluralHandlingSpinBoxD0Ev
-libKF6TextWidgets.so.6:_ZN22KPluralHandlingSpinBoxD1Ev
-libKF6TextWidgets.so.6:_ZN22KPluralHandlingSpinBoxD2Ev
-libKF6TextWidgets.so.6:_ZN5KFind10setOptionsEl
-libKF6TextWidgets.so.6:_ZN5KFind10setPatternERK7QString
-libKF6TextWidgets.so.6:_ZN5KFind11qt_metacallEN11QMetaObject4CallEiPPv
-libKF6TextWidgets.so.6:_ZN5KFind11qt_metacastEPKc
-libKF6TextWidgets.so.6:_ZN5KFind11resetCountsEv
-libKF6TextWidgets.so.6:_ZN5KFind12dialogClosedEv
-libKF6TextWidgets.so.6:_ZN5KFind13textFoundAtIdEiii
-libKF6TextWidgets.so.6:_ZN5KFind13validateMatchERK7QStringii
-libKF6TextWidgets.so.6:_ZN5KFind14findNextDialogEb
-libKF6TextWidgets.so.6:_ZN5KFind14optionsChangedEv
-libKF6TextWidgets.so.6:_ZN5KFind19closeFindNextDialogEv
-libKF6TextWidgets.so.6:_ZN5KFind4findERK7QStringS2_ilPiP23QRegularExpressionMatch
-libKF6TextWidgets.so.6:_ZN5KFind4findEv
-libKF6TextWidgets.so.6:_ZN5KFind7setDataERK7QStringi
-libKF6TextWidgets.so.6:_ZN5KFind7setDataEiRK7QStringi
-libKF6TextWidgets.so.6:_ZN5KFind8findNextEv
-libKF6TextWidgets.so.6:_ZN5KFind9textFoundERK7QStringii
-libKF6TextWidgets.so.6:_ZN5KFindC1ERK7QStringlP7QWidget
-libKF6TextWidgets.so.6:_ZN5KFindC1ERK7QStringlP7QWidgetS4_
-libKF6TextWidgets.so.6:_ZN5KFindC2ERK7QStringlP7QWidget
-libKF6TextWidgets.so.6:_ZN5KFindC2ERK7QStringlP7QWidgetS4_
-libKF6TextWidgets.so.6:_ZN5KFindD0Ev
-libKF6TextWidgets.so.6:_ZN5KFindD1Ev
-libKF6TextWidgets.so.6:_ZN5KFindD2Ev
-libKF6TextWidgets.so.6:_ZN8KReplace11qt_metacallEN11QMetaObject4CallEiPPv
-libKF6TextWidgets.so.6:_ZN8KReplace11qt_metacastEPKc
-libKF6TextWidgets.so.6:_ZN8KReplace11resetCountsEv
-libKF6TextWidgets.so.6:_ZN8KReplace12textReplacedERK7QStringiii
-libKF6TextWidgets.so.6:_ZN8KReplace17replaceNextDialogEb
-libKF6TextWidgets.so.6:_ZN8KReplace22closeReplaceNextDialogEv
-libKF6TextWidgets.so.6:_ZN8KReplace7replaceER7QStringRKS0_S3_ilPi
-libKF6TextWidgets.so.6:_ZN8KReplace7replaceEv
-libKF6TextWidgets.so.6:_ZN8KReplaceC1ERK7QStringS2_lP7QWidget
-libKF6TextWidgets.so.6:_ZN8KReplaceC1ERK7QStringS2_lP7QWidgetS4_
-libKF6TextWidgets.so.6:_ZN8KReplaceC2ERK7QStringS2_lP7QWidget
-libKF6TextWidgets.so.6:_ZN8KReplaceC2ERK7QStringS2_lP7QWidgetS4_
-libKF6TextWidgets.so.6:_ZN8KReplaceD0Ev
-libKF6TextWidgets.so.6:_ZN8KReplaceD1Ev
-libKF6TextWidgets.so.6:_ZN8KReplaceD2Ev
-libKF6TextWidgets.so.6:_ZN9KTextEdit10slotDoFindEv
-libKF6TextWidgets.so.6:_ZN9KTextEdit11qt_metacallEN11QMetaObject4CallEiPPv
-libKF6TextWidgets.so.6:_ZN9KTextEdit11qt_metacastEPKc
-libKF6TextWidgets.so.6:_ZN9KTextEdit11setReadOnlyEb
-libKF6TextWidgets.so.6:_ZN9KTextEdit11slotReplaceEv
-libKF6TextWidgets.so.6:_ZN9KTextEdit12focusInEventEP11QFocusEvent
-libKF6TextWidgets.so.6:_ZN9KTextEdit12slotFindNextEv
-libKF6TextWidgets.so.6:_ZN9KTextEdit13checkSpellingEv
-libKF6TextWidgets.so.6:_ZN9KTextEdit13highlightWordEii
-libKF6TextWidgets.so.6:_ZN9KTextEdit13keyPressEventEP9QKeyEvent
-libKF6TextWidgets.so.6:_ZN9KTextEdit13showTabActionEb
-libKF6TextWidgets.so.6:_ZN9KTextEdit13slotDoReplaceEv
-libKF6TextWidgets.so.6:_ZN9KTextEdit13slotSpeakTextEv
-libKF6TextWidgets.so.6:_ZN9KTextEdit14clearDecoratorEv
-libKF6TextWidgets.so.6:_ZN9KTextEdit14deleteWordBackEv
-libKF6TextWidgets.so.6:_ZN9KTextEdit14mousePopupMenuEv
-libKF6TextWidgets.so.6:_ZN9KTextEdit14setHighlighterEPN6Sonnet11HighlighterE
-libKF6TextWidgets.so.6:_ZN9KTextEdit15languageChangedERK7QString
-libKF6TextWidgets.so.6:_ZN9KTextEdit15slotReplaceNextEv
-libKF6TextWidgets.so.6:_ZN9KTextEdit16addTextDecoratorEPN6Sonnet19SpellCheckDecoratorE
-libKF6TextWidgets.so.6:_ZN9KTextEdit16contextMenuEventEP17QContextMenuEvent
-libKF6TextWidgets.so.6:_ZN9KTextEdit16slotFindPreviousEv
-libKF6TextWidgets.so.6:_ZN9KTextEdit16spellCheckStatusERK7QString
-libKF6TextWidgets.so.6:_ZN9KTextEdit17createHighlighterEv
-libKF6TextWidgets.so.6:_ZN9KTextEdit17deleteWordForwardEv
-libKF6TextWidgets.so.6:_ZN9KTextEdit17enableFindReplaceEb
-libKF6TextWidgets.so.6:_ZN9KTextEdit18forceSpellCheckingEv
-libKF6TextWidgets.so.6:_ZN9KTextEdit20checkSpellingChangedEb
-libKF6TextWidgets.so.6:_ZN9KTextEdit21showAutoCorrectButtonEb
-libKF6TextWidgets.so.6:_ZN9KTextEdit21showSpellConfigDialogERK7QString
-libKF6TextWidgets.so.6:_ZN9KTextEdit21spellCheckingCanceledEv
-libKF6TextWidgets.so.6:_ZN9KTextEdit21spellCheckingFinishedEv
-libKF6TextWidgets.so.6:_ZN9KTextEdit22aboutToShowContextMenuEP5QMenu
-libKF6TextWidgets.so.6:_ZN9KTextEdit23setCheckSpellingEnabledEb
-libKF6TextWidgets.so.6:_ZN9KTextEdit23spellCheckerAutoCorrectERK7QStringS2_
-libKF6TextWidgets.so.6:_ZN9KTextEdit24setSpellCheckingLanguageERK7QString
-libKF6TextWidgets.so.6:_ZN9KTextEdit5eventEP6QEvent
-libKF6TextWidgets.so.6:_ZN9KTextEdit7replaceEv
-libKF6TextWidgets.so.6:_ZN9KTextEdit8slotFindEv
-libKF6TextWidgets.so.6:_ZN9KTextEditC1EP7QWidget
-libKF6TextWidgets.so.6:_ZN9KTextEditC1ERK7QStringP7QWidget
-libKF6TextWidgets.so.6:_ZN9KTextEditC2EP7QWidget
-libKF6TextWidgets.so.6:_ZN9KTextEditC2ERK7QStringP7QWidget
-libKF6TextWidgets.so.6:_ZN9KTextEditD0Ev
-libKF6TextWidgets.so.6:_ZN9KTextEditD1Ev
-libKF6TextWidgets.so.6:_ZN9KTextEditD2Ev
-libKF6TextWidgets.so.6:_ZNK11KFindDialog10metaObjectEv
-libKF6TextWidgets.so.6:_ZNK11KFindDialog11findHistoryEv
-libKF6TextWidgets.so.6:_ZNK11KFindDialog13findExtensionEv
-libKF6TextWidgets.so.6:_ZNK11KFindDialog7optionsEv
-libKF6TextWidgets.so.6:_ZNK11KFindDialog7patternEv
-libKF6TextWidgets.so.6:_ZNK13KRichTextEdit10metaObjectEv
-libKF6TextWidgets.so.6:_ZNK13KRichTextEdit10textOrHtmlEv
-libKF6TextWidgets.so.6:_ZNK13KRichTextEdit11toCleanHtmlEv
-libKF6TextWidgets.so.6:_ZNK13KRichTextEdit13canDedentListEv
-libKF6TextWidgets.so.6:_ZNK13KRichTextEdit13canIndentListEv
-libKF6TextWidgets.so.6:_ZNK13KRichTextEdit14currentLinkUrlEv
-libKF6TextWidgets.so.6:_ZNK13KRichTextEdit14selectLinkTextEP11QTextCursor
-libKF6TextWidgets.so.6:_ZNK13KRichTextEdit14selectLinkTextEv
-libKF6TextWidgets.so.6:_ZNK13KRichTextEdit15currentLinkTextEv
-libKF6TextWidgets.so.6:_ZNK13KRichTextEdit8textModeEv
-libKF6TextWidgets.so.6:_ZNK14KReplaceDialog10metaObjectEv
-libKF6TextWidgets.so.6:_ZNK14KReplaceDialog11replacementEv
-libKF6TextWidgets.so.6:_ZNK14KReplaceDialog16replaceExtensionEv
-libKF6TextWidgets.so.6:_ZNK14KReplaceDialog18replacementHistoryEv
-libKF6TextWidgets.so.6:_ZNK14KReplaceDialog7optionsEv
-libKF6TextWidgets.so.6:_ZNK15KRichTextWidget10metaObjectEv
-libKF6TextWidgets.so.6:_ZNK15KRichTextWidget15richTextSupportEv
-libKF6TextWidgets.so.6:_ZNK22KPluralHandlingSpinBox10metaObjectEv
-libKF6TextWidgets.so.6:_ZNK5KFind10metaObjectEv
-libKF6TextWidgets.so.6:_ZNK5KFind10numMatchesEv
-libKF6TextWidgets.so.6:_ZNK5KFind12parentWidgetEv
-libKF6TextWidgets.so.6:_ZNK5KFind13dialogsParentEv
-libKF6TextWidgets.so.6:_ZNK5KFind13shouldRestartEbb
-libKF6TextWidgets.so.6:_ZNK5KFind18displayFinalDialogEv
-libKF6TextWidgets.so.6:_ZNK5KFind5indexEv
-libKF6TextWidgets.so.6:_ZNK5KFind7optionsEv
-libKF6TextWidgets.so.6:_ZNK5KFind7patternEv
-libKF6TextWidgets.so.6:_ZNK5KFind8needDataEv
-libKF6TextWidgets.so.6:_ZNK8KReplace10metaObjectEv
-libKF6TextWidgets.so.6:_ZNK8KReplace13shouldRestartEbb
-libKF6TextWidgets.so.6:_ZNK8KReplace15numReplacementsEv
-libKF6TextWidgets.so.6:_ZNK8KReplace18displayFinalDialogEv
-libKF6TextWidgets.so.6:_ZNK9KTextEdit10metaObjectEv
-libKF6TextWidgets.so.6:_ZNK9KTextEdit11highlighterEv
-libKF6TextWidgets.so.6:_ZNK9KTextEdit20checkSpellingEnabledEv
-libKF6TextWidgets.so.6:_ZNK9KTextEdit21spellCheckingLanguageEv
-libKF6TextWidgets.so.6:_ZNK9KTextEdit25shouldBlockBeSpellCheckedERK7QString
-libKF6TextWidgets.so.6:_ZThn16_N11KFindDialogD0Ev
-libKF6TextWidgets.so.6:_ZThn16_N11KFindDialogD1Ev
-libKF6TextWidgets.so.6:_ZThn16_N13KRichTextEditD0Ev
-libKF6TextWidgets.so.6:_ZThn16_N13KRichTextEditD1Ev
-libKF6TextWidgets.so.6:_ZThn16_N14KReplaceDialogD0Ev
-libKF6TextWidgets.so.6:_ZThn16_N14KReplaceDialogD1Ev
-libKF6TextWidgets.so.6:_ZThn16_N15KRichTextWidgetD0Ev
-libKF6TextWidgets.so.6:_ZThn16_N15KRichTextWidgetD1Ev
-libKF6TextWidgets.so.6:_ZThn16_N22KPluralHandlingSpinBoxD0Ev
-libKF6TextWidgets.so.6:_ZThn16_N22KPluralHandlingSpinBoxD1Ev
-libKF6TextWidgets.so.6:_ZThn16_N9KTextEditD0Ev
-libKF6TextWidgets.so.6:_ZThn16_N9KTextEditD1Ev
+libKF6TextWidgets.so.6:KFindDialog::setOptions(long)
+libKF6TextWidgets.so.6:KFindDialog::setPattern(QString const&)
+libKF6TextWidgets.so.6:KFindDialog::qt_metacall(QMetaObject::Call, int, void**)
+libKF6TextWidgets.so.6:KFindDialog::qt_metacast(char const*)
+libKF6TextWidgets.so.6:KFindDialog::setHasCursor(bool)
+libKF6TextWidgets.so.6:KFindDialog::cancelClicked()
+libKF6TextWidgets.so.6:KFindDialog::optionsChanged()
+libKF6TextWidgets.so.6:KFindDialog::setFindHistory(QList<QString> const&)
+libKF6TextWidgets.so.6:KFindDialog::setHasSelection(bool)
+libKF6TextWidgets.so.6:KFindDialog::setSupportsBackwardsFind(bool)
+libKF6TextWidgets.so.6:KFindDialog::setSupportsWholeWordsFind(bool)
+libKF6TextWidgets.so.6:KFindDialog::setSupportsCaseSensitiveFind(bool)
+libKF6TextWidgets.so.6:KFindDialog::setSupportsRegularExpressionFind(bool)
+libKF6TextWidgets.so.6:KFindDialog::okClicked()
+libKF6TextWidgets.so.6:KFindDialog::showEvent(QShowEvent*)
+libKF6TextWidgets.so.6:KFindDialog::KFindDialog(QWidget*, long, QList<QString> const&, bool, bool)
+libKF6TextWidgets.so.6:KFindDialog::KFindDialog(QWidget*, long, QList<QString> const&, bool, bool)
+libKF6TextWidgets.so.6:KFindDialog::~KFindDialog()
+libKF6TextWidgets.so.6:KFindDialog::~KFindDialog()
+libKF6TextWidgets.so.6:KFindDialog::~KFindDialog()
+libKF6TextWidgets.so.6:KRichTextEdit::alignRight()
+libKF6TextWidgets.so.6:KRichTextEdit::updateLink(QString const&, QString const&)
+libKF6TextWidgets.so.6:KRichTextEdit::alignCenter()
+libKF6TextWidgets.so.6:KRichTextEdit::qt_metacall(QMetaObject::Call, int, void**)
+libKF6TextWidgets.so.6:KRichTextEdit::qt_metacast(char const*)
+libKF6TextWidgets.so.6:KRichTextEdit::setFontSize(int)
+libKF6TextWidgets.so.6:KRichTextEdit::setTextBold(bool)
+libKF6TextWidgets.so.6:KRichTextEdit::alignJustify()
+libKF6TextWidgets.so.6:KRichTextEdit::setListStyle(int)
+libKF6TextWidgets.so.6:KRichTextEdit::keyPressEvent(QKeyEvent*)
+libKF6TextWidgets.so.6:KRichTextEdit::setFontFamily(QString const&)
+libKF6TextWidgets.so.6:KRichTextEdit::setTextItalic(bool)
+libKF6TextWidgets.so.6:KRichTextEdit::setTextOrHtml(QString const&)
+libKF6TextWidgets.so.6:KRichTextEdit::indentListLess()
+libKF6TextWidgets.so.6:KRichTextEdit::indentListMore()
+libKF6TextWidgets.so.6:KRichTextEdit::makeLeftToRight()
+libKF6TextWidgets.so.6:KRichTextEdit::makeRightToLeft()
+libKF6TextWidgets.so.6:KRichTextEdit::setHeadingLevel(int)
+libKF6TextWidgets.so.6:KRichTextEdit::textModeChanged(KRichTextEdit::Mode)
+libKF6TextWidgets.so.6:KRichTextEdit::setTextStrikeOut(bool)
+libKF6TextWidgets.so.6:KRichTextEdit::setTextSubScript(bool)
+libKF6TextWidgets.so.6:KRichTextEdit::setTextUnderline(bool)
+libKF6TextWidgets.so.6:KRichTextEdit::switchToPlainText()
+libKF6TextWidgets.so.6:KRichTextEdit::enableRichTextMode()
+libKF6TextWidgets.so.6:KRichTextEdit::setTextSuperScript(bool)
+libKF6TextWidgets.so.6:KRichTextEdit::insertHorizontalRule()
+libKF6TextWidgets.so.6:KRichTextEdit::setTextBackgroundColor(QColor const&)
+libKF6TextWidgets.so.6:KRichTextEdit::setTextForegroundColor(QColor const&)
+libKF6TextWidgets.so.6:KRichTextEdit::insertPlainTextImplementation()
+libKF6TextWidgets.so.6:KRichTextEdit::setFont(QFont const&)
+libKF6TextWidgets.so.6:KRichTextEdit::alignLeft()
+libKF6TextWidgets.so.6:KRichTextEdit::KRichTextEdit(QWidget*)
+libKF6TextWidgets.so.6:KRichTextEdit::KRichTextEdit(QString const&, QWidget*)
+libKF6TextWidgets.so.6:KRichTextEdit::KRichTextEdit(QWidget*)
+libKF6TextWidgets.so.6:KRichTextEdit::KRichTextEdit(QString const&, QWidget*)
+libKF6TextWidgets.so.6:KRichTextEdit::~KRichTextEdit()
+libKF6TextWidgets.so.6:KRichTextEdit::~KRichTextEdit()
+libKF6TextWidgets.so.6:KRichTextEdit::~KRichTextEdit()
+libKF6TextWidgets.so.6:KReplaceDialog::setOptions(long)
+libKF6TextWidgets.so.6:KReplaceDialog::qt_metacall(QMetaObject::Call, int, void**)
+libKF6TextWidgets.so.6:KReplaceDialog::qt_metacast(char const*)
+libKF6TextWidgets.so.6:KReplaceDialog::setReplacementHistory(QList<QString> const&)
+libKF6TextWidgets.so.6:KReplaceDialog::showEvent(QShowEvent*)
+libKF6TextWidgets.so.6:KReplaceDialog::KReplaceDialog(QWidget*, long, QList<QString> const&, QList<QString> const&, bool)
+libKF6TextWidgets.so.6:KReplaceDialog::KReplaceDialog(QWidget*, long, QList<QString> const&, QList<QString> const&, bool)
+libKF6TextWidgets.so.6:KReplaceDialog::~KReplaceDialog()
+libKF6TextWidgets.so.6:KReplaceDialog::~KReplaceDialog()
+libKF6TextWidgets.so.6:KReplaceDialog::~KReplaceDialog()
+libKF6TextWidgets.so.6:KRichTextWidget::qt_metacall(QMetaObject::Call, int, void**)
+libKF6TextWidgets.so.6:KRichTextWidget::qt_metacast(char const*)
+libKF6TextWidgets.so.6:KRichTextWidget::createActions()
+libKF6TextWidgets.so.6:KRichTextWidget::mouseReleaseEvent(QMouseEvent*)
+libKF6TextWidgets.so.6:KRichTextWidget::setActionsEnabled(bool)
+libKF6TextWidgets.so.6:KRichTextWidget::setRichTextSupport(QFlags<KRichTextWidget::RichTextSupportValues> const&)
+libKF6TextWidgets.so.6:KRichTextWidget::updateActionStates()
+libKF6TextWidgets.so.6:KRichTextWidget::KRichTextWidget(QWidget*)
+libKF6TextWidgets.so.6:KRichTextWidget::KRichTextWidget(QString const&, QWidget*)
+libKF6TextWidgets.so.6:KRichTextWidget::KRichTextWidget(QWidget*)
+libKF6TextWidgets.so.6:KRichTextWidget::KRichTextWidget(QString const&, QWidget*)
+libKF6TextWidgets.so.6:KRichTextWidget::~KRichTextWidget()
+libKF6TextWidgets.so.6:KRichTextWidget::~KRichTextWidget()
+libKF6TextWidgets.so.6:KRichTextWidget::~KRichTextWidget()
+libKF6TextWidgets.so.6:KPluralHandlingSpinBox::qt_metacall(QMetaObject::Call, int, void**)
+libKF6TextWidgets.so.6:KPluralHandlingSpinBox::qt_metacast(char const*)
+libKF6TextWidgets.so.6:KPluralHandlingSpinBox::setSuffix(KLocalizedString const&)
+libKF6TextWidgets.so.6:KPluralHandlingSpinBox::KPluralHandlingSpinBox(QWidget*)
+libKF6TextWidgets.so.6:KPluralHandlingSpinBox::KPluralHandlingSpinBox(QWidget*)
+libKF6TextWidgets.so.6:KPluralHandlingSpinBox::~KPluralHandlingSpinBox()
+libKF6TextWidgets.so.6:KPluralHandlingSpinBox::~KPluralHandlingSpinBox()
+libKF6TextWidgets.so.6:KPluralHandlingSpinBox::~KPluralHandlingSpinBox()
+libKF6TextWidgets.so.6:KFind::setOptions(long)
+libKF6TextWidgets.so.6:KFind::setPattern(QString const&)
+libKF6TextWidgets.so.6:KFind::qt_metacall(QMetaObject::Call, int, void**)
+libKF6TextWidgets.so.6:KFind::qt_metacast(char const*)
+libKF6TextWidgets.so.6:KFind::resetCounts()
+libKF6TextWidgets.so.6:KFind::dialogClosed()
+libKF6TextWidgets.so.6:KFind::textFoundAtId(int, int, int)
+libKF6TextWidgets.so.6:KFind::validateMatch(QString const&, int, int)
+libKF6TextWidgets.so.6:KFind::findNextDialog(bool)
+libKF6TextWidgets.so.6:KFind::optionsChanged()
+libKF6TextWidgets.so.6:KFind::closeFindNextDialog()
+libKF6TextWidgets.so.6:KFind::find(QString const&, QString const&, int, long, int*, QRegularExpressionMatch*)
+libKF6TextWidgets.so.6:KFind::find()
+libKF6TextWidgets.so.6:KFind::setData(QString const&, int)
+libKF6TextWidgets.so.6:KFind::setData(int, QString const&, int)
+libKF6TextWidgets.so.6:KFind::findNext()
+libKF6TextWidgets.so.6:KFind::textFound(QString const&, int, int)
+libKF6TextWidgets.so.6:KFind::KFind(QString const&, long, QWidget*)
+libKF6TextWidgets.so.6:KFind::KFind(QString const&, long, QWidget*, QWidget*)
+libKF6TextWidgets.so.6:KFind::KFind(QString const&, long, QWidget*)
+libKF6TextWidgets.so.6:KFind::KFind(QString const&, long, QWidget*, QWidget*)
+libKF6TextWidgets.so.6:KFind::~KFind()
+libKF6TextWidgets.so.6:KFind::~KFind()
+libKF6TextWidgets.so.6:KFind::~KFind()
+libKF6TextWidgets.so.6:KReplace::qt_metacall(QMetaObject::Call, int, void**)
+libKF6TextWidgets.so.6:KReplace::qt_metacast(char const*)
+libKF6TextWidgets.so.6:KReplace::resetCounts()
+libKF6TextWidgets.so.6:KReplace::textReplaced(QString const&, int, int, int)
+libKF6TextWidgets.so.6:KReplace::replaceNextDialog(bool)
+libKF6TextWidgets.so.6:KReplace::closeReplaceNextDialog()
+libKF6TextWidgets.so.6:KReplace::replace(QString&, QString const&, QString const&, int, long, int*)
+libKF6TextWidgets.so.6:KReplace::replace()
+libKF6TextWidgets.so.6:KReplace::KReplace(QString const&, QString const&, long, QWidget*)
+libKF6TextWidgets.so.6:KReplace::KReplace(QString const&, QString const&, long, QWidget*, QWidget*)
+libKF6TextWidgets.so.6:KReplace::KReplace(QString const&, QString const&, long, QWidget*)
+libKF6TextWidgets.so.6:KReplace::KReplace(QString const&, QString const&, long, QWidget*, QWidget*)
+libKF6TextWidgets.so.6:KReplace::~KReplace()
+libKF6TextWidgets.so.6:KReplace::~KReplace()
+libKF6TextWidgets.so.6:KReplace::~KReplace()
+libKF6TextWidgets.so.6:KTextEdit::slotDoFind()
+libKF6TextWidgets.so.6:KTextEdit::qt_metacall(QMetaObject::Call, int, void**)
+libKF6TextWidgets.so.6:KTextEdit::qt_metacast(char const*)
+libKF6TextWidgets.so.6:KTextEdit::setReadOnly(bool)
+libKF6TextWidgets.so.6:KTextEdit::slotReplace()
+libKF6TextWidgets.so.6:KTextEdit::focusInEvent(QFocusEvent*)
+libKF6TextWidgets.so.6:KTextEdit::slotFindNext()
+libKF6TextWidgets.so.6:KTextEdit::checkSpelling()
+libKF6TextWidgets.so.6:KTextEdit::highlightWord(int, int)
+libKF6TextWidgets.so.6:KTextEdit::keyPressEvent(QKeyEvent*)
+libKF6TextWidgets.so.6:KTextEdit::showTabAction(bool)
+libKF6TextWidgets.so.6:KTextEdit::slotDoReplace()
+libKF6TextWidgets.so.6:KTextEdit::slotSpeakText()
+libKF6TextWidgets.so.6:KTextEdit::clearDecorator()
+libKF6TextWidgets.so.6:KTextEdit::deleteWordBack()
+libKF6TextWidgets.so.6:KTextEdit::mousePopupMenu()
+libKF6TextWidgets.so.6:KTextEdit::setHighlighter(Sonnet::Highlighter*)
+libKF6TextWidgets.so.6:KTextEdit::languageChanged(QString const&)
+libKF6TextWidgets.so.6:KTextEdit::slotReplaceNext()
+libKF6TextWidgets.so.6:KTextEdit::addTextDecorator(Sonnet::SpellCheckDecorator*)
+libKF6TextWidgets.so.6:KTextEdit::contextMenuEvent(QContextMenuEvent*)
+libKF6TextWidgets.so.6:KTextEdit::slotFindPrevious()
+libKF6TextWidgets.so.6:KTextEdit::spellCheckStatus(QString const&)
+libKF6TextWidgets.so.6:KTextEdit::createHighlighter()
+libKF6TextWidgets.so.6:KTextEdit::deleteWordForward()
+libKF6TextWidgets.so.6:KTextEdit::enableFindReplace(bool)
+libKF6TextWidgets.so.6:KTextEdit::forceSpellChecking()
+libKF6TextWidgets.so.6:KTextEdit::checkSpellingChanged(bool)
+libKF6TextWidgets.so.6:KTextEdit::showAutoCorrectButton(bool)
+libKF6TextWidgets.so.6:KTextEdit::showSpellConfigDialog(QString const&)
+libKF6TextWidgets.so.6:KTextEdit::spellCheckingCanceled()
+libKF6TextWidgets.so.6:KTextEdit::spellCheckingFinished()
+libKF6TextWidgets.so.6:KTextEdit::aboutToShowContextMenu(QMenu*)
+libKF6TextWidgets.so.6:KTextEdit::setCheckSpellingEnabled(bool)
+libKF6TextWidgets.so.6:KTextEdit::spellCheckerAutoCorrect(QString const&, QString const&)
+libKF6TextWidgets.so.6:KTextEdit::setSpellCheckingLanguage(QString const&)
+libKF6TextWidgets.so.6:KTextEdit::event(QEvent*)
+libKF6TextWidgets.so.6:KTextEdit::replace()
+libKF6TextWidgets.so.6:KTextEdit::slotFind()
+libKF6TextWidgets.so.6:KTextEdit::KTextEdit(QWidget*)
+libKF6TextWidgets.so.6:KTextEdit::KTextEdit(QString const&, QWidget*)
+libKF6TextWidgets.so.6:KTextEdit::KTextEdit(QWidget*)
+libKF6TextWidgets.so.6:KTextEdit::KTextEdit(QString const&, QWidget*)
+libKF6TextWidgets.so.6:KTextEdit::~KTextEdit()
+libKF6TextWidgets.so.6:KTextEdit::~KTextEdit()
+libKF6TextWidgets.so.6:KTextEdit::~KTextEdit()
+libKF6TextWidgets.so.6:KFindDialog::metaObject() const
+libKF6TextWidgets.so.6:KFindDialog::findHistory() const
+libKF6TextWidgets.so.6:KFindDialog::findExtension() const
+libKF6TextWidgets.so.6:KFindDialog::options() const
+libKF6TextWidgets.so.6:KFindDialog::pattern() const
+libKF6TextWidgets.so.6:KRichTextEdit::metaObject() const
+libKF6TextWidgets.so.6:KRichTextEdit::textOrHtml() const
+libKF6TextWidgets.so.6:KRichTextEdit::toCleanHtml() const
+libKF6TextWidgets.so.6:KRichTextEdit::canDedentList() const
+libKF6TextWidgets.so.6:KRichTextEdit::canIndentList() const
+libKF6TextWidgets.so.6:KRichTextEdit::currentLinkUrl() const
+libKF6TextWidgets.so.6:KRichTextEdit::selectLinkText(QTextCursor*) const
+libKF6TextWidgets.so.6:KRichTextEdit::selectLinkText() const
+libKF6TextWidgets.so.6:KRichTextEdit::currentLinkText() const
+libKF6TextWidgets.so.6:KRichTextEdit::textMode() const
+libKF6TextWidgets.so.6:KReplaceDialog::metaObject() const
+libKF6TextWidgets.so.6:KReplaceDialog::replacement() const
+libKF6TextWidgets.so.6:KReplaceDialog::replaceExtension() const
+libKF6TextWidgets.so.6:KReplaceDialog::replacementHistory() const
+libKF6TextWidgets.so.6:KReplaceDialog::options() const
+libKF6TextWidgets.so.6:KRichTextWidget::metaObject() const
+libKF6TextWidgets.so.6:KRichTextWidget::richTextSupport() const
+libKF6TextWidgets.so.6:KPluralHandlingSpinBox::metaObject() const
+libKF6TextWidgets.so.6:KFind::metaObject() const
+libKF6TextWidgets.so.6:KFind::numMatches() const
+libKF6TextWidgets.so.6:KFind::parentWidget() const
+libKF6TextWidgets.so.6:KFind::dialogsParent() const
+libKF6TextWidgets.so.6:KFind::shouldRestart(bool, bool) const
+libKF6TextWidgets.so.6:KFind::displayFinalDialog() const
+libKF6TextWidgets.so.6:KFind::index() const
+libKF6TextWidgets.so.6:KFind::options() const
+libKF6TextWidgets.so.6:KFind::pattern() const
+libKF6TextWidgets.so.6:KFind::needData() const
+libKF6TextWidgets.so.6:KReplace::metaObject() const
+libKF6TextWidgets.so.6:KReplace::shouldRestart(bool, bool) const
+libKF6TextWidgets.so.6:KReplace::numReplacements() const
+libKF6TextWidgets.so.6:KReplace::displayFinalDialog() const
+libKF6TextWidgets.so.6:KTextEdit::metaObject() const
+libKF6TextWidgets.so.6:KTextEdit::highlighter() const
+libKF6TextWidgets.so.6:KTextEdit::checkSpellingEnabled() const
+libKF6TextWidgets.so.6:KTextEdit::spellCheckingLanguage() const
+libKF6TextWidgets.so.6:KTextEdit::shouldBlockBeSpellChecked(QString const&) const
+libKF6TextWidgets.so.6:non-virtual thunk to KFindDialog::~KFindDialog()
+libKF6TextWidgets.so.6:non-virtual thunk to KFindDialog::~KFindDialog()
+libKF6TextWidgets.so.6:non-virtual thunk to KRichTextEdit::~KRichTextEdit()
+libKF6TextWidgets.so.6:non-virtual thunk to KRichTextEdit::~KRichTextEdit()
+libKF6TextWidgets.so.6:non-virtual thunk to KReplaceDialog::~KReplaceDialog()
+libKF6TextWidgets.so.6:non-virtual thunk to KReplaceDialog::~KReplaceDialog()
+libKF6TextWidgets.so.6:non-virtual thunk to KRichTextWidget::~KRichTextWidget()
+libKF6TextWidgets.so.6:non-virtual thunk to KRichTextWidget::~KRichTextWidget()
+libKF6TextWidgets.so.6:non-virtual thunk to KPluralHandlingSpinBox::~KPluralHandlingSpinBox()
+libKF6TextWidgets.so.6:non-virtual thunk to KPluralHandlingSpinBox::~KPluralHandlingSpinBox()
+libKF6TextWidgets.so.6:non-virtual thunk to KTextEdit::~KTextEdit()
+libKF6TextWidgets.so.6:non-virtual thunk to KTextEdit::~KTextEdit()
